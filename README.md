@@ -14,4 +14,4 @@ The purpose of this project is to demonstrate your ability to collect, work with
 1) Download files in link: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 2) Place following files in a folder and make it WD in R (X_test.txt,X_train.txt,subject_test.txt,subject_train.txt,y_test.txt,y_train.txt,features.txt)
  3) Execute run_analysis.R
- 4) Tidy data will be published to a csv file called: Final_Data_Tidy.csv
+ 4) Tidy data will be published to a csv file called: Final_Data_Tidy.txt
